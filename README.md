@@ -79,6 +79,9 @@ Some key findings from the analysis:
 
 ![Dashboard](screenshots/<img width="941" height="326" alt="dashboard" src="https://github.com/user-attachments/assets/fbbec2ed-4865-47df-9e58-bc85831f498c" />
 )
+![pivot](screenshots/<img width="914" height="313" alt="pivot" src="https://github.com/user-attachments/assets/ce5bad05-e892-4b90-a795-0ecc933d8587" />
+)
+
 
 > Add your dashboard screenshot inside the `screenshots` folder.
 
