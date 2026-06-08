@@ -77,7 +77,8 @@ Some key findings from the analysis:
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/<img width="941" height="326" alt="dashboard" src="https://github.com/user-attachments/assets/fbbec2ed-4865-47df-9e58-bc85831f498c" />
+)
 
 > Add your dashboard screenshot inside the `screenshots` folder.
 
